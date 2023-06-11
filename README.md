@@ -56,7 +56,8 @@ public class IdletoCrouch : MonoBehaviour
 ~~~
 
 ## Output:
-![img1]()
-![img2]()
+![Exp6-1](https://github.com/vijay21500269/Animator/assets/94381788/734fa43e-93ce-469d-b265-fecba9fcf09a)
+![Exp6-2](https://github.com/vijay21500269/Animator/assets/94381788/f8315f01-7572-490f-bef5-a02aa759c969)
+
 ## Result:
 Thus, an animator that changes it's movement using C# program in Unity engine is developed and executed successfully.
